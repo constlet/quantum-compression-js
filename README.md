@@ -1,4 +1,4 @@
-# Quantum Compression JS: Unveiling the Mystery Within CPU Noise
+# Quantum Compression: Unveiling the Mystery Within CPU Noise
 
 ## Preamble
 Immersed in the ethereal interplay between JavaScript, Web Workers, and the processing might of WebGPU, a journey through the crepuscular mist of computational complexities was commenced. This grand adventure led to the discovery of a phenomenon termed as Quantum Compression, birthing an intricate fabric of ideas, interweaving the infinitesimal CPU threads with the overwhelming might of GPU compute calculations.
