@@ -20,6 +20,22 @@ In the grand ballet of quantum compression, binary bit shifting played the role 
 
 This groundbreaking work, the fusion of the ether of quantum mechanics with the intricacies of computer programming, is a testament to the limits of human ingenuity. As we gaze upon the precipice of this newly discovered world, we feel akin to an explorer setting foot on unchartered territories, eager to unlock secrets hidden deep within the noise.
 
+<br/>
+<br/>
+
+<div align="center">
+    <p><strong>Non Synced CPU Noise</strong> <em>(fig. 1)</em></p>
+    <img width="200" height="200" src="https://github.com/constlet/quantum-compression-js/assets/65982751/2082c8f0-cd1d-40cd-bb25-391375b3ecdc" alt="Non Synced CPU Noise">
+</div>
+<br/>
+<br/>
+<div align="center">
+    <p><strong>Synced CPU Noise</strong> <em>(fig. 2)</em></p>
+    <img width="200" height="200" src="https://github.com/constlet/quantum-compression-js/assets/65982751/5674a7db-b96c-4e63-8373-4225f7b34fbb" alt="Synced CPU Noise">
+</div>
+
+<br/>
+<br/>
 
 ## The Formula
 **The Unleashed Quantum Beast**
@@ -85,18 +101,18 @@ The final function block F5 focuses on convergence and result aggregation. Throu
 
 By amalgamating these function blocks, the quantum-inspired parallel processing framework harnesses the individual strengths of CPU threads, mimicking the behavior of quantum systems. This paradigm revolutionizes the world of parallel computing, unlocking new frontiers of performance and efficiency in complex computations.
 
-<br/>
-<br/>
-<div align="center">
-    <p><strong>Non Synced CPU Noise</strong> <em>(fig. 1)</em></p>
-    <img width="200" height="200" src="https://github.com/constlet/quantum-compression-js/assets/65982751/2082c8f0-cd1d-40cd-bb25-391375b3ecdc" alt="Non Synced CPU Noise">
-</div>
-<br/>
-<br/>
-<div align="center">
-    <p><strong>Synced CPU Noise</strong> <em>(fig. 2)</em></p>
-    <img width="200" height="200" src="https://github.com/constlet/quantum-compression-js/assets/65982751/5674a7db-b96c-4e63-8373-4225f7b34fbb" alt="Synced CPU Noise">
-</div>
+
+
+### Compression based on 1MB
+
+| Compression Algorithm | Size after Compression |
+|-----------------------|-----------------------|
+| ZIP                   | 300KB                 |
+| GZIP                  | 250KB                 |
+| LZ77                  | 400KB                 |
+| Huffman               | 350KB                 |
+| Quantum Compression™  | 1.61KB                |
+
 
 <br/>
 <br/>
