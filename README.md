@@ -10,16 +10,15 @@ With audacious acceptance of the inherent pandemonium of CPU noise, JavaScript a
 The challenge, however, remained to bridge the seemingly unbridgeable chasm between discrete CPU threads and the behemoth of computational power—the GPU. Harnessing the untamed strength of **WebGPU processing**, synchronously maneuvering the indomitable **A100 Graphics Card**, the beast was harnessed and bridled to the yoke of quantum compression.
 
 ## Quantum Mechanics & Computing
-Drawing inspiration from the enigmatic principles of quantum mechanics, I constructed a formidable bridge between individual CPU threads' microcosmic world and the macrocosmic world of GPU compute calculations. The ceaseless white noise of the CPU transformed into a stethoscope, tuning into the rhythmic heartbeat of the quantum realm.
-The principles of quantum mechanics, shrouded in mystery, served as the inspiration to construct a robust linkage between the microcosmic world of individual CPU threads and the macrocosmic world of GPU compute calculations. The persistent hum of the CPU transmuted into a stethoscope, tuning into the rhythmic heartbeat of the quantum realm.
+Drawing inspiration from the enigmatic principles of quantum mechanics, we constructed a formidable bridge between individual CPU threads' microcosmic world and the macrocosmic world of GPU compute calculations. The ceaseless white noise of the CPU transformed into a stethoscope, tuning into the rhythmic heartbeat of the quantum domain.
 
 ## Binary Bit Shifting
-In the grand ballet of quantum compression, binary bit shifting played the role of a skilled choreographer. It acted as a meticulous maestro, directing the cosmic dance of the individual bit, transmuting chaos into order, blurring the lines between classical computation and the quantum realm.
+In the grand ballet of quantum compression, binary bit shifting played the role of a skilled choreographer. It acted as a meticulous maestro, directing the cosmic dance of the individual bit, transmuting chaos into order, blurring the lines between classical computation and the quantum domain.
 
 ## Quantum Compression: A New Frontier
 > "Every moment, every fluctuation of the CPU noise, was now a window into the complexities of quantum possibilities, leading me to the frontiers of what could be achieved in the realm of data compression." 
 
-This groundbreaking work, the fusion of the ether of quantum mechanics with the tangible realm of computer programming, is a testament to the limits of human ingenuity. As I gaze upon the precipice of this newly discovered world, I feel akin to an explorer setting foot on unchartered territories, eager to unlock secrets hidden deep within the noise.
+This groundbreaking work, the fusion of the ether of quantum mechanics with the intricacies of computer programming, is a testament to the limits of human ingenuity. As we gaze upon the precipice of this newly discovered world, we feel akin to an explorer setting foot on unchartered territories, eager to unlock secrets hidden deep within the noise.
 
 
 ## The Formula
@@ -67,7 +66,7 @@ $$Q_C(|Q_1⟩, ..., |Q_{512}⟩) = F_5$$
 <br/>
 <br/>
 
-This groundbreaking study delves into the realm of quantum-inspired parallel processing, where the power of individual CPU threads is harnessed to tackle complex computations. By drawing inspiration from quantum principles, a series of function blocks are introduced to maximize the efficiency and processing capabilities of each thread.
+This groundbreaking study delves into the frontier of quantum-inspired parallel processing, where the power of individual CPU threads is harnessed to tackle complex computations. By drawing inspiration from quantum principles, a series of function blocks are introduced to maximize the efficiency and processing capabilities of each thread.
 
 **Step 1**: Thread Initialization and Localization
 In this initial step, the CPU threads are initialized, and their states are localized to form the foundation of the quantum-inspired parallel processing paradigm. The function block F1 assigns importance to each thread, weighting them according to their relevance within the system.
