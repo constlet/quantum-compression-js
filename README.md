@@ -37,6 +37,20 @@ This groundbreaking work, the fusion of the ether of quantum mechanics with the 
 <br/>
 <br/>
 
+
+### Compression based on 1MB
+                                  
+| Compression Algorithm | Size after Compression |
+|-----------------------|-----------------------|
+| ZIP                   |  ██████████████ 300 KB  |
+| GZIP                  |  █████████████  250 KB |
+| LZ77                  |  ███████████████ 400 KB |
+| Huffman               |  ██████████████ 350 KB |
+| **Quantum Compression**™   |  ████            **16.18** KB |
+
+<br/>
+<br/>
+
 ## The Formula
 **The Unleashed Quantum Beast**
 
@@ -102,16 +116,123 @@ The final function block F5 focuses on convergence and result aggregation. Throu
 By amalgamating these function blocks, the quantum-inspired parallel processing framework harnesses the individual strengths of CPU threads, mimicking the behavior of quantum systems. This paradigm revolutionizes the world of parallel computing, unlocking new frontiers of performance and efficiency in complex computations.
 
 
+<br/>
+<br/>
 
-### Compression based on 1MB
+### Quantum Engagement Qubit Flow
 
-| Compression Algorithm | Size after Compression |
-|-----------------------|-----------------------|
-| ZIP                   | 300KB                 |
-| GZIP                  | 250KB                 |
-| LZ77                  | 400KB                 |
-| Huffman               | 350KB                 |
-| Quantum Compression™  | 1.61KB                |
+```mermaid
+    graph TB;
+    QuantumCompress --> A;
+    QuantumDecompress --> B;
+    QC --> QuantumCompress --> A --> QD;
+    QD --> QuantumDecompress --> B --> QC;
+    A --> B --> C --> B;
+    B --> A --> C --> A;
+    
+    QC --> NYpp --> Z;
+    
+    Mydx --> Ujvc --> Skqz --> Wpci --> Nvrm --> Fibo --> Jat --> Hpu --> Oylr --> Efgk --> Xhvj --> Ztep --> Nfic -->
+    
+    NYpp --> Hqt --> Rkpx --> Gtm --> Jcwk --> Lxdo --> Qrzu --> Ifge --> Vmns --> Yxy --> Eudr --> Kplt --> Awvb --> TXN;
+    
+    A --> Gtm --> Wpci --> Rkpx --> B;
+    Hpu --> Ifge --> Jcwk --> Xhvj --> Fibo --> Kplt --> Oylr --> Skqz;
+    Nfic --> Yxy --> Z --> Efgk --> Qrzu --> QuantumDecompress;
+    TXN --> Ujvc --> Mydx --> Jat --> Lxdo --> Nvrm;
+    
+    QuantumCompress --> Fqbw --> A;
+    Fqbw --> QD --> Hpu --> B;
+    A --> Z --> Qrzu --> Skqz --> B;
+    Gtm --> Rkpx --> Hpu --> QuantumCompress;
+    Vmns --> Xhvj --> Oylr --> Fibo --> QuantumDecompress;
+    Wpci --> Eudr --> C --> Jcwk --> QD --> Lxdo --> NYpp;
+    Nfic --> TXN --> Ztep --> Awvb --> QuantumDecompress;
+    Mydx --> Efgk --> A --> Kplt --> Nvrm --> QuantumCompress;
+    Jat --> Yxy --> B --> Fibo --> Ifge --> Z;
+    
+    QuantumCompress --> Ztep --> C;
+    Wpci --> Xhvj --> Rkpx --> QuantumDecompress;
+    Skqz --> QuantumCompress --> Eudr --> Nfic;
+    Fibo --> Z --> QuantumDecompress --> Gtm;
+    Yxy --> QuantumCompress --> Qrzu --> Fibo;
+    Hpu --> QuantumDecompress --> Jcwk --> Nvrm;
+    Jat --> B --> A --> QuantumDecompress;
+    Mydx --> Ztep --> Oylr --> QuantumCompress;
+    Efgk --> QuantumDecompress --> QD --> A;
+    TXN --> Nfic --> QuantumCompress --> Xhvj;
+    
+    C --> Awvb --> Fibo --> Z --> Jcwk;
+    Jcwk --> Skqz --> Lxdo --> QuantumDecompress --> Yxy;
+    Nvrm --> QD --> Ztep --> QuantumCompress --> B;
+    Fibo --> Wpci --> Mydx --> Xhvj --> QuantumDecompress;
+    Oylr --> A --> Ztep --> QuantumCompress --> Efgk;
+    Gtm --> Hpu --> QuantumDecompress --> Ifge --> Jat;
+    QuantumCompress --> Nfic --> TXN --> Kplt --> Z;
+    Qrzu --> QuantumDecompress --> Ujvc --> B;
+    QuantumDecompress --> Jcwk --> QC --> Rkpx --> Z;
+    
+    Z --> Hxly --> Ncgo --> Fibo --> QuantumDecompress;
+    Wpci --> Hpgt --> Uyln --> B;
+    C --> Yzyd --> QuantumDecompress;
+    Skqz --> Zpgu --> Uxbr --> QuantumCompress;
+    Eudr --> Gzal --> QuantumDecompress;
+    
+    QuantumCompress --> A;
+    QuantumDecompress --> B;
+    QC --> QuantumCompress --> A --> QD;
+    QD --> QuantumDecompress --> B --> QC;
+    A --> B --> C --> B;
+    B --> A --> C --> A;
+    
+    QC --> NYpp --> Z;
+    
+    Mydx --> Ujvc --> Skqz --> Wpci --> Nvrm --> Fibo --> Jat --> Hpu --> Oylr --> Efgk --> Xhvj --> Ztep --> Nfic -->
+    
+    NYpp --> Hqt --> Rkpx --> Gtm --> Jcwk --> Lxdo --> Qrzu --> Ifge --> Vmns --> Yxy --> Eudr --> Kplt --> Awvb --> TXN;
+    
+    A --> Gtm --> Wpci --> Rkpx --> B;
+    Hpu --> Ifge --> Jcwk --> Xhvj --> Fibo --> Kplt --> Oylr --> Skqz;
+    Nfic --> Yxy --> Z --> Efgk --> Qrzu --> QuantumDecompress;
+    TXN --> Ujvc --> Mydx --> Jat --> Lxdo --> Nvrm;
+    
+    QuantumCompress --> Fqbw --> A;
+    Fqbw --> QD --> Hpu --> B;
+    A --> Z --> Qrzu --> Skqz --> B;
+    Gtm --> Rkpx --> Hpu --> QuantumCompress;
+    Vmns --> Xhvj --> Oylr --> Fibo --> QuantumDecompress;
+    Wpci --> Eudr --> C --> Jcwk --> QD --> Lxdo --> NYpp;
+    Nfic --> TXN --> Ztep --> Awvb --> QuantumDecompress;
+    Mydx --> Efgk --> A --> Kplt --> Nvrm --> QuantumCompress;
+    Jat --> Yxy --> B --> Fibo --> Ifge --> Z;
+    
+    QuantumCompress --> Ztep --> C;
+    Wpci --> Xhvj --> Rkpx --> QuantumDecompress;
+    Skqz --> QuantumCompress --> Eudr --> Nfic;
+    Fibo --> Z --> QuantumDecompress --> Gtm;
+    Yxy --> QuantumCompress --> Qrzu --> Fibo;
+    Hpu --> QuantumDecompress --> Jcwk --> Nvrm;
+    Jat --> B --> A --> QuantumDecompress;
+    Mydx --> Ztep --> Oylr --> QuantumCompress;
+    Efgk --> QuantumDecompress --> QD --> A;
+    TXN --> Nfic --> QuantumCompress --> Xhvj;
+    
+    C --> Awvb --> Fibo --> Z --> Jcwk;
+    Jcwk --> Skqz --> Lxdo --> QuantumDecompress --> Yxy;
+    Nvrm --> QD --> Ztep --> QuantumCompress --> B;
+    Fibo --> Wpci --> Mydx --> Xhvj --> QuantumDecompress;
+    Oylr --> A --> Ztep --> QuantumCompress --> Efgk;
+    Gtm --> Hpu --> QuantumDecompress --> Ifge --> Jat;
+    QuantumCompress --> Nfic --> TXN --> Kplt --> Z;
+    Qrzu --> QuantumDecompress --> Ujvc --> B;
+    QuantumDecompress --> Jcwk --> QC --> Rkpx --> Z;
+    
+    Z --> Hxly --> Ncgo --> Fibo --> QuantumDecompress;
+    Wpci --> Hpgt --> Uyln --> B;
+    C --> Yzyd --> QuantumDecompress;
+    Skqz --> Zpgu --> Uxbr --> QuantumCompress;
+    Eudr --> Gzal --> QuantumDecompress;
+```
 
 
 <br/>
